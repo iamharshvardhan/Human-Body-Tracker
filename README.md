@@ -23,7 +23,7 @@ pip install mediapipe opencv-python numpy
 1. Clone the repository:
 
 ```bash
-git 
+git clone https://github.com/iamharshvardhan/Human-Body-Tracker.git
 ```
 
 2. Run the script:
